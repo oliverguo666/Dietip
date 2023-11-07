@@ -1,2 +1,5 @@
-# Dietip
-Web design application for people who cares what they eat
+# DieTip
+We notice that the needs of people who want to lose weight have been ignored by recipe recommendation services for a while. For these people, because they need to be careful to always control their calorie intake, how to eat healthy and flavorful food becomes a very critical problem. Although there is a consensus that "eating at home is healthier than eating out because you can control the recipes", cooking at home is definitely a challenge. While calories are labeled on things we buy, the calories are kind of ambiguous for fresh ingredients and meals, and this makes weight management difficult to estimate the calorie intake when cooking on their own. 
+
+# Goal
+Therefore, a recipe that allows them to keep track of their calorie intake is much needed. We believe that there is a fairly high overlap between people who exercise and people who want to lose weight, so we decided to understand the needs of our target users by reaching out to people who keep exercising. We plan to start with a questionnaire containing questions about their needs and expectations, and then we will make samples based on the responses to these questions. We will also try our best to get their suggestions, either by doing interviews or creating scenarios. We are sure that we can eventually satisfy their expectations by continuing to make improvements.
